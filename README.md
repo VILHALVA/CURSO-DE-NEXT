@@ -1,13 +1,13 @@
-# CURSO DE NEXT
-👨‍⚖️NEXT (OU NEXT.JS) É UM FRAMEWORK DE DESENVOLVIMENTO WEB EM JAVASCRIPT, UTILIZADO PARA A CRIAÇÃO DE APLICAÇÕES WEB MODERNAS E ESCALÁVEIS. ELE É BASEADO EM REACT E É CONHECIDO POR SUA PERFORMANCE, FLEXIBILIDADE E FACILIDADE DE USO. MUITOS DESENVOLVEDORES O UTILIZAM PARA CONSTRUIR INTERFACES DE USUÁRIO INTERATIVAS E DINÂMICAS.
+# CURSO DE NEXTJS
+👨‍⚖️NEXT.JS É UM FRAMEWORK DE DESENVOLVIMENTO WEB EM JAVASCRIPT, UTILIZADO PARA A CRIAÇÃO DE APLICAÇÕES WEB MODERNAS E ESCALÁVEIS. ELE É BASEADO EM REACT E É CONHECIDO POR SUA PERFORMANCE, FLEXIBILIDADE E FACILIDADE DE USO. MUITOS DESENVOLVEDORES O UTILIZAM PARA CONSTRUIR INTERFACES DE USUÁRIO INTERATIVAS E DINÂMICAS.
 
 <img src="FOTO.png" align="center" width="400"> <br>
 
 ## CONCEITO:
-Next é um framework React que permite a construção de aplicações web server-side rendering (SSR) e estáticas. Ele oferece uma excelente experiência de desenvolvimento, fornecendo recursos como roteamento baseado em arquivos, suporte a CSS e Sass, otimização de performance e muito mais.
+Next.JS é um framework React que permite a construção de aplicações web server-side rendering (SSR) e estáticas. Ele oferece uma excelente experiência de desenvolvimento, fornecendo recursos como roteamento baseado em arquivos, suporte a CSS e Sass, otimização de performance e muito mais.
 
 ## SUA HISTÓRIA:
-Next foi desenvolvido pela Vercel (anteriormente Zeit) e lançado pela primeira vez em 2016. Desde então, ele se tornou um dos frameworks mais populares para o desenvolvimento de aplicações React, ganhando adoção ampla pela comunidade de desenvolvedores devido à sua simplicidade, flexibilidade e capacidade de entregar aplicações de alto desempenho.
+Next.JS foi desenvolvido pela Vercel (anteriormente Zeit) e lançado pela primeira vez em 2016. Desde então, ele se tornou um dos frameworks mais populares para o desenvolvimento de aplicações React, ganhando adoção ampla pela comunidade de desenvolvedores devido à sua simplicidade, flexibilidade e capacidade de entregar aplicações de alto desempenho.
 
 ## NEXT.JS É UM FRAMEWORK DA BIBLIOTECA REACT:
 A distinção entre um framework e uma biblioteca muitas vezes confunde, especialmente em contextos como o do React e do Next.js. Vamos esclarecer um pouco mais essa relação e por que o Next.js pode parecer mais complexo:
@@ -60,5 +60,5 @@ A distinção entre um framework e uma biblioteca muitas vezes confunde, especia
 - [LINGUAGEM DE PROGRAMAÇÃO](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
 - [FRAMEWORK DO REACT](https://github.com/VILHALVA/CURSO-DE-REACT)
 - [VEJA O MANUAL](./MANUAL.md)
-- [VEJA OS PROJETOS](https://github.com/VILHALVA?tab=repositories&q=topic:NEXT)
+- [VEJA OS PROJETOS](https://github.com/VILHALVA?tab=repositories&q=topic:NEXTJS)
 
